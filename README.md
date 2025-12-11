@@ -29,7 +29,8 @@ password-generator/
 │── script.js  
 └── README.md  
 
-Screenshots:-
+Screenshots:-<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/714a2981-588b-4840-8af9-65e139afa9c1" />
+
 
  What I Learned
 - DOM manipulation  
