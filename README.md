@@ -5,7 +5,7 @@ Allows users to generate strong passwords with customizable length and character
 
 
 
-Live Demo   
+Live Demo :- https://supriyode2002.github.io/Javascript-Project--Password-generator/
 
 
  Features
@@ -29,7 +29,7 @@ password-generator/
 │── script.js  
 └── README.md  
 
-
+Screenshots:-
 
  What I Learned
 - DOM manipulation  
